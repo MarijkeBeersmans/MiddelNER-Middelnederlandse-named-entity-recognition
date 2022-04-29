@@ -2453,8 +2453,8 @@ hanghende	O
 dit	O
 was	O
 ghedaen	O
-den	B-DATE
-xvj	I-DATE
+den	O
+xvj	B-DATE
 sten	I-DATE
 dach	I-DATE
 van	I-DATE
