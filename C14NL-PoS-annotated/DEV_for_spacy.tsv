@@ -631,6 +631,7 @@ ccc	I-DATE
 lxv	I-DATE
 in	I-DATE
 octob	I-DATE
+
 wij	O
 lantscepenen	O
 van	O
@@ -949,6 +950,7 @@ van	I-DATE
 meye	I-DATE
 ten	I-DATE
 jngaene	I-DATE
+
 dat	O
 moeten	O
 weten	O
@@ -1329,6 +1331,7 @@ eene	O
 xv	B-MONEY
 sc	I-MONEY
 parisise	I-MONEY
+
 wjj	O
 schepenen	O
 ende	O
@@ -2932,6 +2935,7 @@ ondert	I-DATE
 viere	I-DATE
 ende	I-DATE
 tsestich	I-DATE
+
 kenlijc	O
 zij	O
 allen	O
@@ -3399,6 +3403,7 @@ ste	I-DATE
 dach	I-DATE
 jn	I-DATE
 nouembre	I-DATE
+
 cont	O
 si	O
 alle	O
@@ -3764,6 +3769,7 @@ mccc	B-DATE
 e	I-DATE
 ix	I-DATE
 talreheleghermesse	I-DATE
+
 jc	O
 cateline	B-PERS
 hoofts	I-PERS
@@ -3873,6 +3879,7 @@ derdichsten	I-DATE
 dach	I-DATE
 van	I-DATE
 wedemaent	I-DATE
+
 wij	O
 lantscepenen	O
 van	O
@@ -4053,6 +4060,7 @@ ewangelists	I-DATE
 naer	I-DATE
 kerst	I-DATE
 dach	I-DATE
+
 dat	O
 moeten	O
 weeten	O
@@ -4719,6 +4727,7 @@ nar	I-DATE
 sente	I-DATE
 niclaus	I-DATE
 daghe	I-DATE
+
 wje	O
 johan	B-PERS
 covent	I-PERS
@@ -5087,6 +5096,7 @@ ccc	I-DATE
 viere	I-DATE
 en	I-DATE
 zestich	I-DATE
+
 wie	O
 jacob	B-PERS
 van	I-PERS
@@ -5243,6 +5253,7 @@ twintichsten	I-DATE
 dach	I-DATE
 van	I-DATE
 october	I-DATE
+
 kenlijc	O
 zij	O
 allen	O
@@ -5628,6 +5639,7 @@ xxviijste	I-DATE
 dach	I-DATE
 van	I-DATE
 septembre	I-DATE
+
 kenlijc	O
 zij	O
 allen	O
@@ -5924,6 +5936,7 @@ ste	I-DATE
 dach	I-DATE
 in	I-DATE
 nouembre	I-DATE
+
 kenlijc	O
 zij	O
 allen	O
@@ -6236,6 +6249,7 @@ xiijc	B-DATE
 iiijxx	I-DATE
 en	I-DATE
 zeuene	I-DATE
+
 jnt	O
 jaer	O
 mccc	B-DATE
@@ -6340,3 +6354,4 @@ heren	O
 van	O
 axele	B-LOC
 vors	O
+

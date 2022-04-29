@@ -119,6 +119,7 @@ sdonresdaechs	I-DATE
 na	I-DATE
 zentelucien	I-DATE
 dach	I-DATE
+
 dat	O
 moeten	O
 weten	O
@@ -385,6 +386,7 @@ onser	I-DATE
 vrouwen	I-DATE
 dach	I-DATE
 lichtmesse	I-DATE
+
 wij	O
 lantscepenen	O
 van	O
@@ -745,6 +747,7 @@ der	I-DATE
 maent	I-DATE
 van	I-DATE
 decembre	I-DATE
+
 weten	O
 alle	O
 lieden	O
@@ -1044,6 +1047,7 @@ viere	I-DATE
 jn	I-DATE
 oust	I-DATE
 maent	I-DATE
+
 wij	O
 lantscepenen	O
 van	O
@@ -1376,6 +1380,7 @@ jn	I-DATE
 senter	I-DATE
 niclaus	I-DATE
 auonde	I-DATE
+
 kenlijc	O
 zij	O
 allen	O
@@ -1631,6 +1636,7 @@ xiste	I-DATE
 dach	I-DATE
 in	I-DATE
 octobre	I-DATE
+
 wij	O
 lantscepenen	O
 van	O
@@ -1952,6 +1958,7 @@ zeuentienden	I-DATE
 dach	I-DATE
 van	I-DATE
 laumaende	I-DATE
+
 wie	O
 heinriq	B-PERS
 de	I-PERS
@@ -2181,6 +2188,7 @@ crucedaghe	I-DATE
 jn	I-DATE
 piet	I-DATE
 maent	I-DATE
+
 cont	O
 si	O
 alle	O
@@ -2425,6 +2433,7 @@ sdonredaghes	I-DATE
 na	I-DATE
 oct	I-DATE
 mei	I-DATE
+
 wje	O
 lambrecht	B-PERS
 de	I-PERS
@@ -2894,6 +2903,7 @@ twintichsten	I-DATE
 dach	I-DATE
 van	I-DATE
 maerte	I-DATE
+
 wie	O
 joris	B-PERS
 van	I-PERS
@@ -3088,6 +3098,7 @@ dach	I-DATE
 jngaende	I-DATE
 van	I-DATE
 sporkele	I-DATE
+
 cont	O
 si	O
 alle	O
@@ -3451,6 +3462,7 @@ mccc	B-DATE
 e	I-DATE
 ix	I-DATE
 talreheleghermesse	I-DATE
+
 wij	O
 lantscepenen	O
 van	O
@@ -3748,6 +3760,7 @@ crucen	I-DATE
 dach	I-DATE
 jn	I-DATE
 spelmaende	I-DATE
+
 wij	O
 lantscepenen	O
 van	O
@@ -4051,6 +4064,7 @@ tsondaechs	I-DATE
 na	I-DATE
 sentecatelinen	I-DATE
 dach	I-DATE
+
 wie	O
 suster	O
 lisebette	B-PERS
@@ -4175,6 +4189,7 @@ mccc	B-DATE
 achtentach	I-DATE
 en	I-DATE
 twel	I-DATE
+
 wij	O
 claus	B-PERS
 de	I-PERS
@@ -4597,6 +4612,7 @@ va	I-PERS
 vp	I-PERS
 den	I-PERS
 bosch	I-PERS
+
 dat	O
 moeten	O
 weten	O
@@ -4995,6 +5011,7 @@ sfriendaech	I-DATE
 vor	I-DATE
 half	I-DATE
 hoymaent	I-DATE
+
 wii	O
 arnout	B-PERS
 de	I-PERS
@@ -5173,6 +5190,7 @@ vierden	I-DATE
 dach	I-DATE
 van	I-DATE
 aprulle	I-DATE
+
 wie	O
 robrecht	B-PERS
 van	I-PERS
@@ -5383,6 +5401,7 @@ na	I-DATE
 sinte	I-DATE
 pauwels	I-DATE
 dach	I-DATE
+
 wij	O
 lantschepenen	O
 van	O
@@ -5576,6 +5595,7 @@ twintichsten	I-DATE
 dach	I-DATE
 jn	I-DATE
 aprille	I-DATE
+
 wij	O
 schepenen	O
 van	O
@@ -5896,6 +5916,7 @@ twintichsten	I-DATE
 dach	I-DATE
 van	I-DATE
 loumaende	I-DATE
+
 wij	O
 lantschepenen	O
 van	O
@@ -6231,6 +6252,7 @@ achtensten	I-DATE
 dach	I-DATE
 jn	I-DATE
 hoymaent	I-DATE
+
 wij	O
 lantscepene	O
 van	O
@@ -6555,6 +6577,7 @@ vijftech	I-DATE
 te	I-DATE
 half	I-DATE
 aprille	I-DATE
+
 cy	O
 ro	O
 weten	O
@@ -7438,6 +7461,7 @@ neghentich	I-DATE
 tuutgane	I-DATE
 van	I-DATE
 braecmaende	I-DATE
+
 weten	O
 alle	O
 die	O
@@ -8027,6 +8051,7 @@ haluer	I-DATE
 maend	I-DATE
 van	I-DATE
 december	I-DATE
+
 kenlijc	O
 zij	O
 allen	O
@@ -8347,6 +8372,7 @@ sten	I-DATE
 dach	I-DATE
 in	I-DATE
 hoymaend	I-DATE
+
 kont	O
 en	O
 kenlijc	O
@@ -8735,6 +8761,7 @@ sente	I-DATE
 maerx	I-DATE
 daghe	I-DATE
 ewang	I-DATE
+
 kenlic	O
 zij	O
 allen	O
@@ -9146,6 +9173,7 @@ screef	O
 mccc	B-DATE
 en	I-DATE
 xci	I-DATE
+
 het	O
 si	O
 cont	O
@@ -9398,6 +9426,7 @@ vrouwen	I-DATE
 dach	I-DATE
 in	I-DATE
 maerte	I-DATE
+
 dat	O
 moeten	O
 weten	O
@@ -9545,6 +9574,7 @@ de	I-DATE
 maent	I-DATE
 van	I-DATE
 nouember	I-DATE
+
 gillis	B-PERS
 va	I-PERS
 scendelbeke	I-PERS
@@ -9621,6 +9651,7 @@ en	I-DATE
 dertech	I-DATE
 te	I-DATE
 ksav	I-DATE
+
 wij	O
 scepen	O
 van	O
@@ -9882,6 +9913,7 @@ dertich	I-DATE
 jn	I-DATE
 sentenichasis	I-DATE
 daghe	I-DATE
+
 kenlijc	O
 zij	O
 allen	O
@@ -10087,6 +10119,7 @@ ste	I-DATE
 dach	I-DATE
 van	I-DATE
 aprulle	I-DATE
+
 wij	O
 landscepenen	O
 van	O
@@ -10759,6 +10792,7 @@ dusentich	B-DATE
 driehondert	I-DATE
 en	I-DATE
 zestich	I-DATE
+
 wie	O
 pauwels	B-PERS
 vlaminc	I-PERS
@@ -11088,6 +11122,7 @@ vor	I-DATE
 sinte	I-DATE
 vissensis	I-DATE
 dach	I-DATE
+
 wij	O
 scepenen	O
 van	O
@@ -11328,6 +11363,7 @@ tsondaechs	I-DATE
 na	I-DATE
 alf	I-DATE
 meye	I-DATE
+
 wij	O
 lantscepenen	O
 van	O
@@ -11839,6 +11875,7 @@ maerte	I-DATE
 ten	I-DATE
 vte	I-DATE
 ghane	I-DATE
+
 dat	O
 moeten	O
 weete	O
@@ -11987,6 +12024,7 @@ mccc	B-DATE
 lxvj	I-DATE
 in	I-DATE
 ksauonde	I-DATE
+
 weten	O
 alle	O
 de	O
@@ -12273,6 +12311,7 @@ p	O
 h	O
 v	O
 m	O
+
 het	O
 sij	O
 cond	O
@@ -12382,6 +12421,7 @@ mccc	B-DATE
 viue	I-DATE
 en	I-DATE
 tachtentien	I-DATE
+
 jc	O
 clais	B-PERS
 biezebout	I-PERS
@@ -12486,6 +12526,7 @@ screef	O
 mccc	B-DATE
 ende	I-DATE
 viertech	I-DATE
+
 chi	O
 phe	O
 wij	O
@@ -12677,6 +12718,7 @@ laetsten	I-DATE
 dach	I-DATE
 jn	I-DATE
 meye	I-DATE
+
 dat	O
 moeten	O
 weten	O
@@ -12950,6 +12992,7 @@ twalefsten	I-DATE
 dach	I-DATE
 van	I-DATE
 meye	I-DATE
+
 kenlijc	O
 zij	O
 allen	O
@@ -13409,6 +13452,7 @@ sten	I-DATE
 dach	I-DATE
 jn	I-DATE
 aprille	I-DATE
+
 dat	O
 moeten	O
 weten	O
@@ -13789,6 +13833,7 @@ heeren	O
 m	B-DATE
 ccc	I-DATE
 lxxj	I-DATE
+
 wij	O
 lantscepenen	O
 van	O
@@ -14118,6 +14163,7 @@ marcs	I-DATE
 dach	I-DATE
 jn	I-DATE
 aprille	I-DATE
+
 jc	O
 iha	B-PERS
 van	I-PERS
@@ -14273,6 +14319,7 @@ en	I-DATE
 dertech	I-DATE
 jn	I-DATE
 sporcle	I-DATE
+
 wij	O
 lantscepenen	O
 van	O
@@ -14599,6 +14646,7 @@ ende	I-DATE
 viertich	I-DATE
 te	I-DATE
 kersauonde	I-DATE
+
 wij	O
 poert	O
 schepenen	O
@@ -14857,6 +14905,7 @@ dach	I-DATE
 ci	O
 ro	O
 gra	O
+
 wij	O
 lantscepenen	O
 van	O
@@ -15242,6 +15291,7 @@ der	I-DATE
 maent	I-DATE
 van	I-DATE
 december	I-DATE
+
 dat	O
 moeten	O
 weten	O
@@ -15450,6 +15500,7 @@ naer	I-DATE
 sente	I-DATE
 matheeus	I-DATE
 dach	I-DATE
+
 kenlijc	O
 zij	O
 allen	O
@@ -15713,6 +15764,7 @@ na	I-DATE
 sente	I-DATE
 andries	I-DATE
 dach	I-DATE
+
 dat	O
 moeten	O
 weten	O
@@ -16237,6 +16289,7 @@ heen	O
 m	B-DATE
 ccc	I-DATE
 lxx	I-DATE
+
 kenlijc	O
 zij	O
 allen	O
@@ -16579,6 +16632,7 @@ te	I-DATE
 sente	I-DATE
 jans	I-DATE
 messe	I-DATE
+
 cont	O
 si	O
 alle	O
@@ -16821,6 +16875,7 @@ sdonredaghes	I-DATE
 na	I-DATE
 oct	I-DATE
 mei	I-DATE
+
 wje	O
 johan	B-PERS
 snouc	I-PERS
@@ -17068,6 +17123,7 @@ zeuensten	I-DATE
 dach	I-DATE
 van	I-DATE
 hoymaent	I-DATE
+
 wje	O
 johan	B-PERS
 snouc	I-PERS
@@ -17294,6 +17350,7 @@ zeuensten	I-DATE
 dach	I-DATE
 van	I-DATE
 hoymaent	I-DATE
+
 wij	O
 lantschepenen	O
 van	O
@@ -17829,6 +17886,7 @@ derden	I-DATE
 dach	I-DATE
 van	I-DATE
 sporkele	I-DATE
+
 wij	O
 lantscepenen	O
 van	O
@@ -18070,6 +18128,7 @@ viertich	I-DATE
 te	I-DATE
 alf	I-DATE
 aprulle	I-DATE
+
 dat	O
 moeten	O
 weten	O
@@ -18350,6 +18409,7 @@ ende	I-DATE
 xlvij	I-DATE
 jn	I-DATE
 hoymaende	I-DATE
+
 weten	O
 alle	O
 die	O
@@ -18945,6 +19005,7 @@ vijfsten	I-DATE
 dach	I-DATE
 van	I-DATE
 nouember	I-DATE
+
 dat	O
 moeten	O
 weten	O
@@ -19209,6 +19270,7 @@ de	I-DATE
 maent	I-DATE
 van	I-DATE
 octobre	I-DATE
+
 kenlijc	O
 zij	O
 allen	O
@@ -19570,6 +19632,7 @@ xviijsten	I-DATE
 dach	I-DATE
 van	I-DATE
 decembre	I-DATE
+
 wie	O
 jehan	B-PERS
 de	I-PERS
@@ -19819,6 +19882,7 @@ vor	I-DATE
 sinte	I-DATE
 baefs	I-DATE
 dach	I-DATE
+
 dat	O
 moeten	O
 weten	O
@@ -20068,6 +20132,7 @@ sente	I-DATE
 marien	I-DATE
 maegdaleenen	I-DATE
 daghe	I-DATE
+
 wie	O
 jehan	B-PERS
 de	I-PERS
@@ -20283,6 +20348,7 @@ saterdaghes	I-DATE
 vor	I-DATE
 sinte	I-DATE
 baefsmesse	I-DATE
+
 wij	O
 lantscepenen	O
 van	O
@@ -20684,6 +20750,7 @@ ende	O
 jn	O
 den	O
 dach	O
+
 dat	O
 moeten	O
 weten	O
@@ -20921,6 +20988,7 @@ achtersten	I-DATE
 dach	I-DATE
 van	I-DATE
 decembre	I-DATE
+
 dat	O
 moeten	O
 weten	O
@@ -21076,6 +21144,7 @@ der	I-DATE
 maent	I-DATE
 van	I-DATE
 aprulle	I-DATE
+
 wi	O
 scepenen	O
 van	O
@@ -21330,6 +21399,7 @@ te	I-DATE
 1	I-DATE
 2	I-DATE
 hoimaende	I-DATE
+
 wij	O
 lantscepenen	O
 van	O
@@ -21558,6 +21628,7 @@ twintichsten	I-DATE
 dach	I-DATE
 van	I-DATE
 wedemaende	I-DATE
+
 dat	O
 moeten	O
 weeten	O
@@ -21909,6 +21980,7 @@ pieters	I-DATE
 daghe	I-DATE
 in	I-DATE
 sporcle	I-DATE
+
 kenlijc	O
 zij	O
 allen	O
@@ -22380,6 +22452,7 @@ xsten	I-DATE
 dach	I-DATE
 in	I-DATE
 maerte	I-DATE
+
 kenlijc	O
 sij	O
 allen	O
@@ -22453,6 +22526,7 @@ vichtiensten	I-DATE
 van	I-DATE
 lauwe	I-DATE
 maent	I-DATE
+
 dat	O
 moeten	O
 weten	O
@@ -22833,6 +22907,7 @@ eene	O
 xv	B-MONEY
 sc	I-MONEY
 parisise	I-MONEY
+
 dat	O
 moeten	O
 weten	O
@@ -23206,6 +23281,7 @@ jaer	I-DATE
 mccc	I-DATE
 en	I-DATE
 lxxxvj	I-DATE
+
 wij	O
 scepenen	O
 van	O
@@ -23539,6 +23615,7 @@ palmesaterdach	I-DATE
 omtrent	I-DATE
 alf	I-DATE
 maerte	I-DATE
+
 het	O
 sij	O
 cont	O
@@ -23810,6 +23887,7 @@ ende	I-DATE
 vijftech	I-DATE
 thalf	I-DATE
 maerte	I-DATE
+
 kenlijc	O
 zij	O
 allen	O
@@ -24284,6 +24362,7 @@ vijfsten	I-DATE
 dach	I-DATE
 in	I-DATE
 braecmaent	I-DATE
+
 wij	O
 lantschepenen	O
 van	O
@@ -24504,6 +24583,7 @@ twintichsten	I-DATE
 dach	I-DATE
 jn	I-DATE
 septembre	I-DATE
+
 wie	O
 jehan	B-PERS
 jacopszone	I-PERS
@@ -24964,6 +25044,7 @@ vp	I-DATE
 sinte	I-DATE
 baeufs	I-DATE
 dach	I-DATE
+
 wje	O
 mayelin	B-PERS
 onghereit	I-PERS
@@ -25513,6 +25594,7 @@ woydemaent	I-DATE
 j	I-DATE
 de	I-DATE
 bleyer	I-DATE
+
 dat	O
 moeten	O
 weten	O
@@ -25870,6 +25952,7 @@ pieters	I-DATE
 daghe	I-DATE
 jn	I-DATE
 sporcle	I-DATE
+
 dat	O
 moeten	O
 weten	O
@@ -26104,6 +26187,7 @@ ende	I-DATE
 xlvij	I-DATE
 jn	I-DATE
 hoymaende	I-DATE
+
 dat	O
 moeten	O
 weten	O
@@ -26515,6 +26599,7 @@ ende	I-DATE
 xlvij	I-DATE
 jn	I-DATE
 hoymaende	I-DATE
+
 wij	O
 lantscepenen	O
 van	O
@@ -26832,6 +26917,7 @@ tienden	I-DATE
 dach	I-DATE
 van	I-DATE
 hoymaende	I-DATE
+
 dat	O
 moeten	O
 weten	O
@@ -27230,6 +27316,7 @@ sfriendaech	I-DATE
 vor	I-DATE
 half	I-DATE
 hoymaent	I-DATE
+
 dat	O
 moeten	O
 weeten	O
@@ -27902,6 +27989,7 @@ nar	I-DATE
 sente	I-DATE
 niclaus	I-DATE
 daghe	I-DATE
+
 cy	O
 ro	O
 gra	O
@@ -28103,6 +28191,7 @@ pariss	I-MONEY
 siaers	O
 ghecochter	O
 renten	O
+
 dat	O
 moeten	O
 weten	O
@@ -28405,6 +28494,7 @@ ende	I-DATE
 xlvij	I-DATE
 jn	I-DATE
 hoymaende	I-DATE
+
 wie	O
 jhan	B-PERS
 die	I-PERS
@@ -28902,6 +28992,7 @@ achter	I-DATE
 oest	I-DATE
 jn	I-DATE
 pietmaent	I-DATE
+
 allen	O
 den	O
 ghenen	O
@@ -29094,6 +29185,7 @@ in	I-DATE
 de	I-DATE
 pasch	I-DATE
 daghe	I-DATE
+
 cont	O
 sij	O
 allen	O
@@ -29189,6 +29281,7 @@ vijfsten	I-MONEY
 dach	I-MONEY
 van	I-MONEY
 meye	I-MONEY
+
 wij	O
 lantschepenen	O
 van	O
@@ -29681,6 +29774,7 @@ achte	I-DATE
 tuutgane	I-DATE
 van	I-DATE
 december	I-DATE
+
 kenlijc	O
 zij	O
 allen	O
@@ -29936,6 +30030,7 @@ xiste	I-DATE
 dach	I-DATE
 in	I-DATE
 octobre	I-DATE
+
 jc	O
 syster	O
 lisebette	B-PERS
@@ -30021,6 +30116,7 @@ heren	O
 mccclxxx	B-DATE
 en	I-DATE
 zeiuene	I-DATE
+
 wie	O
 jehan	B-PERS
 houweel	I-PERS
@@ -30305,6 +30401,7 @@ vrauwe	I-DATE
 dagh	I-DATE
 in	I-DATE
 marte	I-DATE
+
 kenlic	O
 zij	O
 allen	O
@@ -30954,6 +31051,7 @@ screef	O
 mccc	B-DATE
 en	I-DATE
 xcj	I-DATE
+
 wij	O
 schepenen	O
 van	O
@@ -31387,6 +31485,7 @@ achtiensten	I-DATE
 dach	I-DATE
 van	I-DATE
 ouxtmaende	I-DATE
+
 wij	O
 piet	B-PERS
 hauweel	I-PERS
@@ -31696,6 +31795,7 @@ vjsten	I-DATE
 dach	I-DATE
 van	I-DATE
 marte	I-DATE
+
 weten	O
 alle	O
 de	O
@@ -32148,6 +32248,7 @@ sluten	O
 in	O
 haer	O
 cofere	O
+
 wie	O
 jacop	B-PERS
 van	I-PERS
@@ -32409,6 +32510,7 @@ dartich	I-DATE
 suridaghs	I-DATE
 vor	I-DATE
 vastenauent	I-DATE
+
 wje	O
 stasin	B-PERS
 de	I-PERS
@@ -32849,6 +32951,7 @@ zeuensten	I-DATE
 dach	I-DATE
 van	I-DATE
 hoymaent	I-DATE
+
 wij	O
 lantscepenen	O
 van	O
@@ -33133,6 +33236,7 @@ neghentienden	I-DATE
 dach	I-DATE
 van	I-DATE
 laumaende	I-DATE
+
 wij	O
 lantscepenen	O
 van	O
@@ -33564,6 +33668,7 @@ zesten	I-DATE
 dach	I-DATE
 van	I-DATE
 hoymaende	I-DATE
+
 dat	O
 moeten	O
 weten	O
@@ -33921,6 +34026,7 @@ pieters	I-DATE
 daghe	I-DATE
 jn	I-DATE
 sporcle	I-DATE
+
 kenlijc	O
 zij	O
 allen	O
@@ -34334,6 +34440,7 @@ xxiijsten	I-DATE
 dach	I-DATE
 van	I-DATE
 septembre	I-DATE
+
 wie	O
 lambt	B-PERS
 queke	I-PERS
@@ -34623,6 +34730,7 @@ van	I-DATE
 sinte	I-DATE
 luux	I-DATE
 dach	I-DATE
+
 wii	O
 lantscepenen	O
 van	O
@@ -34888,6 +34996,7 @@ vijftich	I-DATE
 te	I-DATE
 half	I-DATE
 sporcle	I-DATE
+
 kenlijc	O
 si	O
 allen	O
@@ -35006,6 +35115,7 @@ heersten	I-MONEY
 dach	I-MONEY
 van	I-MONEY
 apl	I-MONEY
+
 kenlijc	O
 zij	O
 allen	O
@@ -35371,6 +35481,7 @@ sten	I-DATE
 dach	I-DATE
 jn	I-DATE
 nouember	I-DATE
+
 dat	O
 moeten	O
 weten	O
@@ -35745,6 +35856,7 @@ eene	O
 xv	B-MONEY
 sc	I-MONEY
 par	I-MONEY
+
 wij	O
 lantschepenen	O
 van	O
@@ -35921,6 +36033,7 @@ naer	I-DATE
 sente	I-DATE
 baefs	I-DATE
 dach	I-DATE
+
 kenlijc	O
 zij	O
 allen	O
@@ -36996,6 +37109,7 @@ ellefsten	I-DATE
 dach	I-DATE
 in	I-DATE
 hoymaent	I-DATE
+
 wij	O
 lantscepenen	O
 van	O
@@ -37294,6 +37408,7 @@ dach	I-DATE
 jn	I-DATE
 den	I-DATE
 maerte	I-DATE
+
 wij	O
 lantscepenen	O
 van	O
@@ -37630,6 +37745,7 @@ tienden	I-DATE
 dach	I-DATE
 van	I-DATE
 meye	I-DATE
+
 dat	O
 moeten	O
 weten	O
@@ -37828,6 +37944,7 @@ sten	I-DATE
 dach	I-DATE
 in	I-DATE
 septembre	I-DATE
+
 jc	O
 suster	O
 lisebette	B-PERS
@@ -37935,6 +38052,7 @@ here	O
 mccc	B-DATE
 ende	I-DATE
 neighentich	I-DATE
+
 wij	O
 lant	O
 scepen	O
@@ -38211,6 +38329,7 @@ dertech	I-DATE
 sondaghes	I-DATE
 vore	I-DATE
 paelmsondach	I-DATE
+
 wje	O
 pauwels	B-PERS
 van	I-PERS
@@ -38420,6 +38539,7 @@ twellefsten	I-DATE
 dagh	I-DATE
 van	I-DATE
 spoerkele	I-DATE
+
 wi	O
 suster	O
 lisebette	B-PERS
@@ -38522,6 +38642,7 @@ mccc	B-DATE
 achtetach	I-DATE
 en	I-DATE
 eleiuene	I-DATE
+
 wy	O
 jnghel	B-PERS
 van	I-PERS
@@ -38749,6 +38870,7 @@ ccc	I-DATE
 neghene	I-DATE
 en	I-DATE
 neghentich	I-DATE
+
 wij	O
 scepen	O
 van	O
@@ -39146,6 +39268,7 @@ sdinsendaghes	I-DATE
 vore	I-DATE
 ascensioens	I-DATE
 dach	I-DATE
+
 kenlijc	O
 zij	O
 allen	O
@@ -40261,3 +40384,4 @@ ellefsten	I-DATE
 dach	I-DATE
 in	I-DATE
 hoymaent	I-DATE
+

@@ -117,6 +117,7 @@ dach	I-DATE
 van	I-DATE
 lau	I-DATE
 maent	I-DATE
+
 jc	O
 suster	O
 lisebette	B-PERS
@@ -220,6 +221,7 @@ ccc	I-DATE
 iiijxx	I-DATE
 en	I-DATE
 twelleue	I-DATE
+
 wij	O
 henric	B-PERS
 here	O
@@ -481,6 +483,7 @@ xvjsten	I-DATE
 dach	I-DATE
 jn	I-DATE
 septembre	I-DATE
+
 jn	O
 den	O
 name	O
@@ -1256,6 +1259,7 @@ xxviijsten	I-DATE
 dach	I-DATE
 van	I-DATE
 septembre	I-DATE
+
 wij	O
 france	B-PERS
 slingher	I-PERS
@@ -1435,6 +1439,7 @@ derde	I-DATE
 dach	I-DATE
 jn	I-DATE
 april	I-DATE
+
 wij	O
 zuster	O
 beatrice	B-PERS
@@ -1796,6 +1801,7 @@ xxvijste	I-DATE
 dach	I-DATE
 va	I-DATE
 hoeymaent	I-DATE
+
 kenlijc	O
 zij	O
 allen	O
@@ -2463,6 +2469,7 @@ screef	O
 mccc	B-DATE
 en	I-DATE
 lxxxvj	I-DATE
+
 weten	O
 alle	O
 de	O
@@ -2691,6 +2698,7 @@ peuser	O
 camere	O
 ant	O
 kerchof	O
+
 kenlijc	O
 zij	O
 allen	O
@@ -3153,6 +3161,7 @@ mccc	B-DATE
 iiijxx	I-DATE
 ende	I-DATE
 neghenne	I-DATE
+
 wij	O
 zuster	O
 beatrice	B-PERS
@@ -3513,6 +3522,7 @@ xxvijste	I-DATE
 dach	I-DATE
 va	I-DATE
 hoeymaent	I-DATE
+
 kenlic	O
 zij	O
 allen	O
@@ -3786,6 +3796,7 @@ mccc	B-DATE
 iiijxx	I-DATE
 ende	I-DATE
 tienne	I-DATE
+
 kenlijc	O
 zij	O
 allen	O
@@ -4211,6 +4222,7 @@ sten	I-DATE
 dach	I-DATE
 in	I-DATE
 braecmaent	I-DATE
+
 die	O
 nu	O
 benijt	O
@@ -4482,6 +4494,7 @@ die	I-DATE
 men	I-DATE
 heet	I-DATE
 maerte	I-DATE
+
 jn	O
 helsengh	B-LOC
 cochte	O
@@ -4611,6 +4624,7 @@ ccc	I-DATE
 xxxiij	I-DATE
 te	I-DATE
 paschen	I-DATE
+
 dat	O
 moeten	O
 weten	O
@@ -5022,6 +5036,7 @@ en	I-DATE
 sente	I-DATE
 pauwels	I-DATE
 daghe	I-DATE
+
 weten	O
 alle	O
 de	O
@@ -5248,3 +5263,4 @@ peuser	O
 camere	O
 ant	O
 kerchof	O
+
