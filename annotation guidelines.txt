@@ -1,0 +1,67 @@
+-------------------------------
+ANNOTATIEREGELS
+-------------------------------
+--ENGLISH BELOW--
+
+noot: deze regels zijn niet op voorhand geformaliseerd, maar eerder "ontstaan" tijdens het annotatieproces.
+
+--ALGEMEEN--
+De mogelijke entiteittypen zijn PERS, LOC, DATE en MONEY
+Overlappende entiteiten worden altijd vermeden. 
+Als een entiteit "binnen" een andere entiteit ligt, bv. "Marie van Auteghem", waarbij "Auteghem" een locatie is en "Marie van Auteghem" een persoon. In deze gevallen wordt de omringende entiteit geannoteerd ("Marie van Auteghem", PERS).
+
+--PERS--
+PERS geeft een naam van een persoon aan, voornaam en/of achternaam of -namen. 
+De titel van een persoon (bijv. "abdis van Meesine", "suster"...) wordt nooit opgenomen. 
+Als in een opeenvolging van namen onduidelijk is waar de ene naam eindigt en de andere begint, wordt een beredeneerde gok gemaakt. De lemma's in C14NL kunnen daarbij als leidraad dienen. E. a. Mergriete gillis gadmins weduwe: Mergriete gillis, gadmins weduwe of : Mergriete, gillis gadmins weduwe. In dit geval is voor het laatste gekozen omdat de achternaam van een getrouwde vrouw in de oorkonden vaak wordt weggelaten.
+
+--LOC-- 
+LOC geeft een locatie aan. 
+Dit kan de naam van een stad of dorp zijn, maar ook meer specifieke plaatsaanduidingen voor een plaats in het dorp, zoals namen van huizen of pleinen (bv. Trechhof, steen van Engeland, Braakzijn) . 
+Bredere beschrijvingen van specifieke plaatsen (bv. De drie stroken land tussen persoon A en persoon B) worden niet als locatie aangegeven.
+
+--DATE--
+DATE kan specifiek zijn (bv. 23 juli 1366) of wederkerend (bv. telken Sint jans messe). 
+Als een datum in zijn geheel (dag, maand en/of jaar) aanwezig is, maar meer "beschreven" dan ronduit vermeld (de 27e dag van de hooimaand (juli) in het jaar van onze heer dertienhonderd zesenzestig) wordt dit geannoteerd als één datum. 
+Als een lidwoord het eerste woord is van één van die "lange data" (bijv. den eersten dach van october), wordt het niet opgenomen. 
+Lidwoorden binnen de lange data worden noodzakelijkerwijs wel opgenomen. 
+Beschrijvingen in de trant van jaer ons heren/het jaar van onze heer worden echter nooit opgenomen en mogen een lange datum "opbreken". Dit gebeurt niet vaak in het Middelnederlands, hoewel "jaer ons heren" meestal voorafgaat aan de datum. 
+Namen van feesten (Kerstmis, Pasen) worden als datum opgenomen, evenals "midzomer" en midwinter.
+
+--GELD-- 
+GELD kan een bedrag en een valuta (bv. vier peneghe par.) zijn of alleen de vermelding van een valuta. 
+Betalingen in natura (bv. graan, fruit...) worden niet opgenomen.
+
+-------------------------------
+ANNOTATION RULES
+-------------------------------
+
+note: these guidelines were not formalised beforehand, rather they "arised" during the annotation process.
+
+--GENERAL--
+The possible entity types are PERS, LOC, DATE and MONEY
+Overlapping entities are always avoided. 
+If an entity is “inside” another entity, e.a. "Marie van Auteghem", where "Auteghem" is a location and "Marie van Auteghem" is a person. The encompassing entity will be annotated (Marie van Auteghem, PERS).
+
+--PERS--
+PERS: indicates a name of a person, first name and/or surname(s). 
+A person’s title (e. a. "abdis van Meesine", "suster"…) is never included. 
+If in a succession of names it is unclear where one name ends and another begins, an educated guess is made. The lemma’s in C14NL can be used as a guide. E. a. Mergriete gillis gadmins weduwe: Mergriete gillis, gadmins weduwe or : Mergriete, gillis gadmins weduwe. In this case the latter was chosen because a married woman’s surname is often omitted in the charters.
+
+--LOC--
+LOC indicates a location. This can be the name of a city or village, but also more specific location specifiers for a place in the village, like names of houses or squares (bv. Trechhof, steen van Engeland, Braakzijn) . More broad descriptions of specific places (bv. The three strokes of land between person A and person B) are not indicated as locations.
+
+--DATE--
+DATE can be specific (e.a. 23th of July 1366) or recurrent (e.a. telken Sint jans messe). If a date is present in its entirety (day, month and/or year) but more “described” than outright stated (the 27th day of the hay-month (July) in the year of our lord thirteen hundred sixty-six) this will be annotated as one date. 
+If an article is the first word of one of those “long dates” (e.a. den eerste dach van october), it is not included. 
+Articles inside the long dates are included by necessity. 
+Descriptors in the vein of  "jaer ons heren/the year of our" lord, however, are never included and are allowed to “break up” a long date. This does not happen very often in Middle Dutch, though, “jaer ons heren” usually precedes the date. 
+Names of festivities (Christmas, Easter) are included as dates, as are “midzomer” (midsummer) and midwinter.
+
+--MONEY--
+MONEY can be an amount and currency or just the mention of a currency. 
+Payments in kind (e.a. grain, fruit…) are not included.
+
+
+
+
