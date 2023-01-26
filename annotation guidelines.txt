@@ -25,7 +25,7 @@ DATE kan specifiek zijn (bv. 23 juli 1366) of wederkerend (bv. telken Sint jans 
 Als een datum in zijn geheel (dag, maand en/of jaar) aanwezig is, maar meer "beschreven" dan ronduit vermeld (de 27e dag van de hooimaand (juli) in het jaar van onze heer dertienhonderd zesenzestig) wordt dit geannoteerd als één datum. 
 Als een lidwoord het eerste woord is van één van die "lange data" (bijv. den eersten dach van october), wordt het niet opgenomen. 
 Lidwoorden binnen de lange data worden noodzakelijkerwijs wel opgenomen. 
-Beschrijvingen in de trant van jaer ons heren/het jaar van onze heer worden echter nooit opgenomen en mogen een lange datum "opbreken". Dit gebeurt niet vaak in het Middelnederlands, hoewel "jaer ons heren" meestal voorafgaat aan de datum. 
+Beschrijvingen in de trant van jaer ons heren/het jaar van onze heer worden echter nooit opgenomen en mogen een lange datum "opbreken". Dit gebeurt niet vaak in het Middelnederlands, want "jaer ons heren" gaat meestal vooraf aan de datum. 
 Namen van feesten (Kerstmis, Pasen) worden als datum opgenomen, evenals "midzomer" en midwinter.
 
 --GELD-- 
@@ -55,7 +55,7 @@ LOC indicates a location. This can be the name of a city or village, but also mo
 DATE can be specific (e.a. 23th of July 1366) or recurrent (e.a. telken Sint jans messe). If a date is present in its entirety (day, month and/or year) but more “described” than outright stated (the 27th day of the hay-month (July) in the year of our lord thirteen hundred sixty-six) this will be annotated as one date. 
 If an article is the first word of one of those “long dates” (e.a. den eerste dach van october), it is not included. 
 Articles inside the long dates are included by necessity. 
-Descriptors in the vein of  "jaer ons heren/the year of our" lord, however, are never included and are allowed to “break up” a long date. This does not happen very often in Middle Dutch, though, “jaer ons heren” usually precedes the date. 
+Descriptors in the vein of  "jaer ons heren/the year of our lord", however, are never included and are allowed to “break up” a long date. This does not happen very often in Middle Dutch, though, “jaer ons heren” usually precedes the date. 
 Names of festivities (Christmas, Easter) are included as dates, as are “midzomer” (midsummer) and midwinter.
 
 --MONEY--
