@@ -9,7 +9,7 @@ gode	B-PERS
 abdesse	O
 va	O
 sinte	O
-clare	O
+clare	B-PERS
 typre	B-LOC
 kenne	O
 dat	O
@@ -129,7 +129,7 @@ gode	B-PERS
 abdesse	O
 van	O
 sijnte	O
-clare	O
+clare	B-PERS
 typre	B-LOC
 kenne	O
 dat	O
@@ -241,7 +241,7 @@ droom	I-PERS
 scepen	O
 van	O
 den	O
-ypperschen	B-LOC
+ypperschen	O
 ambachte	O
 doen	O
 te	O
@@ -296,7 +296,7 @@ van	O
 vlaendren	B-LOC
 bin	O
 den	O
-yppschen	B-LOC
+yppschen	O
 ambochte	O
 jn	O
 de	O
@@ -428,7 +428,7 @@ ende	O
 vsagen	O
 van	O
 den	O
-ypperschen	B-LOC
+ypperschen	O
 ambachte	O
 ende	O
 hebbens	O
@@ -878,9 +878,9 @@ jt	O
 op	O
 valx	O
 ofstede	O
-xij	O
-sc	O
-par	O
+xij	B-MONEY
+sc	I-MONEY
+par	I-MONEY
 tsiaers	O
 erfelike	O
 tscoersse	B-LOC
@@ -2735,7 +2735,7 @@ en	O
 eruen	O
 vor	O
 de	O
-kercstichele	O
+kercstichele	B-LOC
 te	O
 paemle	B-LOC
 in	O
@@ -4702,12 +4702,12 @@ iiijxx	B-MONEY
 lb	I-MONEY
 groeter	I-MONEY
 torn	I-MONEY
-eenen	O
-groeten	O
-torn	O
+eenen	B-MONEY
+groeten	I-MONEY
+torn	I-MONEY
 ouer	O
-eenen	O
-penninc	O
+eenen	B-MONEY
+penninc	I-MONEY
 ofte	O
 mute	O
 naer	O
